@@ -1,4 +1,4 @@
 "Animated Android Logo"
-*learned from the playcode website.
-*Simple transitions when hover over it.
-*it's cool by the way.
+<p>*learned from the playcode website.</p>
+<p>*Simple transitions when hover over it.</p>
+<p>*it's cool by the way.</p>
